@@ -23,7 +23,6 @@ public class StartLogWindow extends Thread {
             System.out.println("输入端口已被占用，现在正在使用" + this.port + "端口");
         }
         System.out.println("访问地址: http://localhost:" + this.port + "/index.html");
-        run();
     }
 
     public StartLogWindow() {
