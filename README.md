@@ -1,5 +1,5 @@
-将html文件夹复制到使用的项目的根目录下！！！\<br>
-log默认目录"./src/main/resources/main.log"，可通过LogBoot构造函数更改\<br>
+将html文件夹复制到使用的项目的根目录下！！！\n
+log默认目录"./src/main/resources/main.log"，可通过LogBoot构造函数更改\n
 application.yml(yaml)文件设置:   读取报错请更改编码为UTF-8或去除下面中文\<br>
 \<br>
 logging:\<br>
